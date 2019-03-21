@@ -1,0 +1,119 @@
+ba-main {
+    /* width: 1200px; */
+}
+
+.ba-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 150px;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.ba-one-1 {display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #AFDFBF;
+    color: rgb(20, 20, 20);
+    
+}
+
+.ba-one-2 {display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #68C5B8;
+    color: white;
+    text-align: center;
+    
+}
+
+.ba-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 150px;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.ba-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 320px;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.ba-two-1 {display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FA688A;
+    color: white;
+    
+    
+}
+
+.one {
+    display: grid;
+    grid-template-rows: 160px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.one div {display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8A95EF;
+    color: white;
+    
+}
+
+.two {
+    display: grid;
+    grid-template-rows: 160px;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.two div {display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFC569;
+    color: rgb(17, 17, 17);
+    text-align: center;
+    margin-bottom: 10px;
+   
+}
+
+.ba-3 {
+    display: grid;
+    grid-template-rows: 185px;
+    grid-template-columns: 2fr 2fr 1fr 1fr;
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.ba-3 div {display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #588CC7;
+    color: white;
+    text-align: center;
+   
+}
+
+.ba-4 {
+    display: grid;
+    grid-template-rows: 145px;
+    grid-template-columns: 1fr 3fr 2fr;
+    grid-gap: 10px;
+    
+}
+.ba-4 div{display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6652AD;
+    color: white;
+    text-align: center;
+}
